@@ -30,6 +30,14 @@ My goal is to become a software developer at a top company like Google, Microsof
   - Palindrome Checker
   - Duplicate Elements in List
 
+### 📅 Day 4 – List, Dictionary, Search
+- Learned:
+  - List & Dictionary methods
+- Solved:
+  - Linear Search
+  - Binary Search
+  - Frequency counter using dictionary
+
 ---
 
 ## 🛠️ Tools Used
@@ -43,7 +51,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 1
 - [x] Day 2
 - [x] Day 3
-- [ ] Day 4 (Coming up 🔥)
+- [x] Day 4
+- [ ] Day 5 (Coming up 🔥)
 
 ---
 
