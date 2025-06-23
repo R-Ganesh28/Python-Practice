@@ -38,6 +38,12 @@ My goal is to become a software developer at a top company like Google, Microsof
   - Binary Search
   - Frequency counter using dictionary
 
+### 📅 Day 5 – Sorting Algorithm
+- Solved:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+
 ---
 
 ## 🛠️ Tools Used
@@ -52,7 +58,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 2
 - [x] Day 3
 - [x] Day 4
-- [ ] Day 5 (Coming up 🔥)
+- [x] Day 5
+- [ ] Day 6 (Coming up 🔥)
 
 ---
 
