@@ -44,6 +44,11 @@ My goal is to become a software developer at a top company like Google, Microsof
   - Selection Sort
   - Insertion Sort
 
+### 📅 Day 6 – Recursion, Patterns, and Mini Game
+
+- Solved recursive problems: factorial, fibonacci, sum of array, sum of digits, palindrome check
+- Printed patterns: right-angled, inverted, and number triangle
+  
 ---
 
 ## 🛠️ Tools Used
@@ -59,7 +64,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
-- [ ] Day 6 (Coming up 🔥)
+- [x] Day 6
+- [ ] Day 7 (Coming up 🔥)
 
 ---
 
