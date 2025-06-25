@@ -44,11 +44,21 @@ My goal is to become a software developer at a top company like Google, Microsof
   - Selection Sort
   - Insertion Sort
 
-### 📅 Day 6 – Recursion, Patterns, and Mini Game
+### 📅 Day 6 – Recursion and Patterns
+- Learned:
+    - Recursions
+- Solved:
+    - Recursive problems: factorial, fibonacci, sum of array, sum of digits, palindrome check
+    - Printed patterns: right-angled, inverted, and number triangle
 
-- Solved recursive problems: factorial, fibonacci, sum of array, sum of digits, palindrome check
-- Printed patterns: right-angled, inverted, and number triangle
-  
+### 📅 Day 7 – File Handling, Strings, and Word Count
+- Learned:
+    - File Handling and String Manipulation
+- Solved:
+    - Reversed strings, counted words, detected anagrams
+    - Performed read/write/append using Python file handling
+    - Fully working `.txt` based data operation
+
 ---
 
 ## 🛠️ Tools Used
@@ -65,7 +75,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 4
 - [x] Day 5
 - [x] Day 6
-- [ ] Day 7 (Coming up 🔥)
+- [x] Day 7
+- [ ] Day 8 (Coming up 🔥)
 
 ---
 
