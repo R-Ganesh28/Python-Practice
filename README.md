@@ -59,6 +59,17 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Performed read/write/append using Python file handling
     - Fully working `.txt` based data operation
 
+### 📅 Day 8 – Object-Oriented Programming
+- Learned:
+    - Class, Object, Constructor
+    - Inheritance, Encapsulation, Polymorphism
+- Solved:
+    - Created and printed class objects
+    - Method overriding using inheritance
+    - Used private variables via getter/setter
+    - Demonstrated polymorphism with multiple classes
+    - Built a Bank App with deposit, withdraw, and balance check
+
 ---
 
 ## 🛠️ Tools Used
@@ -76,7 +87,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 5
 - [x] Day 6
 - [x] Day 7
-- [ ] Day 8 (Coming up 🔥)
+- [x] Day 8
+- [ ] Day 9 (Coming up 🔥)
 
 ---
 
