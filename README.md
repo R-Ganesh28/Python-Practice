@@ -70,6 +70,18 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Demonstrated polymorphism with multiple classes
     - Built a Bank App with deposit, withdraw, and balance check
 
+### 📅 Day 09 – Functional Programming
+- Learned:
+    - Lambda, map, filter, reduce
+    - Comprehensions, zip, enumerate
+    - Nested Functions
+- Solved:
+    - Map & filter with lambda
+    - Reduce to sum elements
+    - List & dict comprehension
+    - Used zip, enumerate
+    - Created multiplier with nested function
+
 ---
 
 ## 🛠️ Tools Used
@@ -88,7 +100,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 6
 - [x] Day 7
 - [x] Day 8
-- [ ] Day 9 (Coming up 🔥)
+- [x] Day 9
+- [ ] Day 10 (Coming up 🔥)
 
 ---
 
