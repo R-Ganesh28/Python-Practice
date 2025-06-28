@@ -82,6 +82,19 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Used zip, enumerate
     - Created multiplier with nested function
 
+### 📅 Day 10 – Exception Handling & File I/O
+- Learned:
+    - try, except, else, finally
+    - Custom exceptions
+    - File read, write, append using `with open()`
+- Solved:
+    - Handled ZeroDivisionError and ValueError
+    - Demonstrated all 4 blocks (try, except, else, finally)
+    - Created custom exception for age check
+    - Handled file not found error
+    - Counted lines in a file
+    - Performed write → append → read operations
+
 ---
 
 ## 🛠️ Tools Used
@@ -101,7 +114,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 7
 - [x] Day 8
 - [x] Day 9
-- [ ] Day 10 (Coming up 🔥)
+- [x] Day 10
+- [ ] Day 11 (Coming up 🔥)
 
 ---
 
