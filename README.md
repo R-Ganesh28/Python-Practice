@@ -95,6 +95,18 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Counted lines in a file
     - Performed write → append → read operations
 
+### 📅 Day 11 – Built-in Modules (math, random, datetime, calendar)
+- Learned:
+    - Math operations using `math` module
+    - Random number generation and list shuffle
+    - Current date, time, and formatting with `datetime`
+    - Printed full year calendar using `calendar`
+- Solved:
+    - Calculated sqrt, ceil, floor, factorial, and power
+    - Generated random numbers and choices
+    - Displayed and formatted date/time
+    - Printed calendar for the year 2025
+
 ---
 
 ## 🛠️ Tools Used
@@ -115,7 +127,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 8
 - [x] Day 9
 - [x] Day 10
-- [ ] Day 11 (Coming up 🔥)
+- [x] Day 11
+- [ ] Day 12 (Coming up 🔥)
 
 ---
 
