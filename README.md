@@ -107,6 +107,17 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Displayed and formatted date/time
     - Printed calendar for the year 2025
 
+### 📅 Day 12 – JSON, CSV & OS Module
+- Learned:
+    - Read/write JSON using `json.dump()` & `json.load()`
+    - Create and read CSV files with `csv.writer()` & `csv.reader()`
+    - Performed OS operations: list files, create folders, rename & delete files
+- Solved:
+    - Stored and updated data in JSON
+    - Created and printed rows from CSV
+    - Listed directory contents using `os`
+    - Renamed and deleted files programmatically
+
 ---
 
 ## 🛠️ Tools Used
@@ -128,7 +139,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 9
 - [x] Day 10
 - [x] Day 11
-- [ ] Day 12 (Coming up 🔥)
+- [x] Day 12
+- [ ] Day 13 (Coming up 🔥)
 
 ---
 
