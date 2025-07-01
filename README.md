@@ -118,6 +118,17 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Listed directory contents using `os`
     - Renamed and deleted files programmatically
 
+### 📅 Day 13 – Regular Expressions (Regex)
+- Learned:
+    - Used `re` module for pattern matching
+    - Applied `search()`, `match()`, `findall()`, `sub()`
+- Solved:
+    - Checked if string contains digits
+    - Extracted words from text
+    - Validated email format
+    - Replaced digits with underscores
+    - Verified if string starts with a word
+
 ---
 
 ## 🛠️ Tools Used
@@ -140,7 +151,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 10
 - [x] Day 11
 - [x] Day 12
-- [ ] Day 13 (Coming up 🔥)
+- [x] Day 13
+- [ ] Day 14 (Coming up 🔥)
 
 ---
 
