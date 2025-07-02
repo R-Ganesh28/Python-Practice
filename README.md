@@ -129,6 +129,15 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Replaced digits with underscores
     - Verified if string starts with a word
 
+### 📅 Day 14 – Python Modules & Packages
+- Learned:
+    - Used built-in modules like `math`, `datetime`
+    - Created custom module with `add()` and `sub()`
+    - Built a package `mypackage` with reusable functions
+- Solved:
+    - Used custom and built-in functions together
+    - Imported from separate modules and folders
+
 ---
 
 ## 🛠️ Tools Used
@@ -152,7 +161,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 11
 - [x] Day 12
 - [x] Day 13
-- [ ] Day 14 (Coming up 🔥)
+- [x] Day 14
+- [ ] Day 15 (Coming up 🔥)
 
 ---
 
