@@ -144,6 +144,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 
 ### 📅 Day 01 – Arrays, Strings, Logic
 ✅ Easy:
+
     - Add Digit  
     - Contains Duplicate  
     - FizzBuzz  
@@ -153,6 +154,7 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Two Sum  
     - Valid Palindrome  
 ✅ Medium:
+
     - Group Anagram  
     - Maximum Subarray
 
