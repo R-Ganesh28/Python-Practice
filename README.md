@@ -140,6 +140,24 @@ My goal is to become a software developer at a top company like Google, Microsof
 
 ---
 
+## 🔁 LeetCode Python Practice (Before DSA)
+
+### 📅 Day 01 – Arrays, Strings, Logic
+✅ Easy:
+    - Add Digit  
+    - Contains Duplicate  
+    - FizzBuzz  
+    - Remove Duplicates from Array  
+    - Reverse String  
+    - Single Number  
+    - Two Sum  
+    - Valid Palindrome  
+✅ Medium:
+    - Group Anagram  
+    - Maximum Subarray
+
+---
+
 ## 🛠️ Tools Used
 - Python 3.12
 - GitHub
@@ -162,6 +180,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 12
 - [x] Day 13
 - [x] Day 14
+- [x] Day 1 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
