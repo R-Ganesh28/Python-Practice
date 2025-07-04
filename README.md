@@ -158,6 +158,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Group Anagram  
     - Maximum Subarray
 
+### 📅 Day 02 – Math & Array Set Operations
+
+✅ Easy:
+- Fibonacci Number
+- Find the Difference
+- Intersection of Two Arrays
+
 ---
 
 ## 🛠️ Tools Used
@@ -183,6 +190,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 13
 - [x] Day 14
 - [x] Day 1 - LeetCode Practice(Before DSA)
+- [x] Day 2 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
