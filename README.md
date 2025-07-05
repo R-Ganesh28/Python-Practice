@@ -161,9 +161,18 @@ My goal is to become a software developer at a top company like Google, Microsof
 ### 📅 Day 02 – Math & Array Set Operations
 
 ✅ Easy:
-- Fibonacci Number
-- Find the Difference
-- Intersection of Two Arrays
+
+    - Fibonacci Number
+    - Find the Difference
+    - Intersection of Two Arrays
+
+### 📅 Day 03 – Math, Bitwise & String Operations
+
+✅ Easy:
+
+    - Valid Anagram
+    - Factorial Trailing Zeroes
+    - Power of Two
 
 ---
 
