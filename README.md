@@ -200,6 +200,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 14
 - [x] Day 1 - LeetCode Practice(Before DSA)
 - [x] Day 2 - LeetCode Practice(Before DSA)
+- [x] Day 3 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
