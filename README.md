@@ -177,10 +177,12 @@ My goal is to become a software developer at a top company like Google, Microsof
 ### 📅 Day 04 – Math, Array Shifts, Frequency Maps
 
 ✅ Easy:
+
     - Power of Three
     - Move Zeroes
 
 ✅ Medium:
+
     - Top K Frequent Elements
 
 ---
