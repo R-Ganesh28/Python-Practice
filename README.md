@@ -174,6 +174,15 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Factorial Trailing Zeroes
     - Power of Two
 
+### 📅 Day 04 – Math, Array Shifts, Frequency Maps
+
+✅ Easy:
+    - Power of Three
+    - Move Zeroes
+
+✅ Medium:
+    - Top K Frequent Elements
+
 ---
 
 ## 🛠️ Tools Used
@@ -201,6 +210,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 1 - LeetCode Practice(Before DSA)
 - [x] Day 2 - LeetCode Practice(Before DSA)
 - [x] Day 3 - LeetCode Practice(Before DSA)
+- [x] Day 4 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
