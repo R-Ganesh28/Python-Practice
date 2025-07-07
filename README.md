@@ -185,6 +185,13 @@ My goal is to become a software developer at a top company like Google, Microsof
 
     - Top K Frequent Elements
 
+### 📅 Day 05 – String Manipulation & Number Logic
+
+✅ Easy:
+
+    - Armstrong Number
+    - Remove Vowels from String
+
 ---
 
 ## 🛠️ Tools Used
@@ -213,6 +220,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 2 - LeetCode Practice(Before DSA)
 - [x] Day 3 - LeetCode Practice(Before DSA)
 - [x] Day 4 - LeetCode Practice(Before DSA)
+- [x] Day 5 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
