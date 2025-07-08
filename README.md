@@ -192,6 +192,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Armstrong Number
     - Remove Vowels from String
 
+### 📅 Day 06 – Vowel Reversal & Character Count
+
+✅ Easy:
+
+    - Reverse Vowels of a String
+    - Count Camel Case Characters
+
 ---
 
 ## 🛠️ Tools Used
@@ -221,6 +228,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 3 - LeetCode Practice(Before DSA)
 - [x] Day 4 - LeetCode Practice(Before DSA)
 - [x] Day 5 - LeetCode Practice(Before DSA)
+- [x] Day 6 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
