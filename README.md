@@ -199,6 +199,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Reverse Vowels of a String
     - Count Camel Case Characters
 
+### 📅 Day 07 – Substring Matching & Prefix Detection
+
+✅ Easy:
+
+    - Implement strStr()
+    - Longest Common Prefix
+
 ---
 
 ## 🛠️ Tools Used
@@ -229,6 +236,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 4 - LeetCode Practice(Before DSA)
 - [x] Day 5 - LeetCode Practice(Before DSA)
 - [x] Day 6 - LeetCode Practice(Before DSA)
+- [x] Day 7 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
