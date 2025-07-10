@@ -206,6 +206,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Implement strStr()
     - Longest Common Prefix
 
+### 📅 Day 08 – Array Two Pointer Logic
+
+✅ Easy:
+
+    - Merge Sorted Array
+    - Squares of a Sorted Array
+
 ---
 
 ## 🛠️ Tools Used
@@ -237,6 +244,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 5 - LeetCode Practice(Before DSA)
 - [x] Day 6 - LeetCode Practice(Before DSA)
 - [x] Day 7 - LeetCode Practice(Before DSA)
+- [x] Day 8 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
