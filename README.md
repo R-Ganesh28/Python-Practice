@@ -213,6 +213,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Merge Sorted Array
     - Squares of a Sorted Array
 
+### 📅 Day 09 – Two Pointers: Advanced Edition
+
+✅ Easy/Medium:
+
+    - Two Sum II – Input Array is Sorted
+    - Minimum Size Subarray Sum
+
 ---
 
 ## 🛠️ Tools Used
@@ -245,6 +252,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 6 - LeetCode Practice(Before DSA)
 - [x] Day 7 - LeetCode Practice(Before DSA)
 - [x] Day 8 - LeetCode Practice(Before DSA)
+- [x] Day 9 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
