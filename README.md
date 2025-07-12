@@ -220,6 +220,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Two Sum II – Input Array is Sorted
     - Minimum Size Subarray Sum
 
+### 📅 Day 10 – Sum Logic & Sliding Window
+
+✅ Easy:
+
+    - Check If N and Its Double Exist
+    - Maximum Average Subarray I
+
 ---
 
 ## 🛠️ Tools Used
@@ -253,6 +260,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 7 - LeetCode Practice(Before DSA)
 - [x] Day 8 - LeetCode Practice(Before DSA)
 - [x] Day 9 - LeetCode Practice(Before DSA)
+- [x] Day 10 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
