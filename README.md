@@ -1,7 +1,7 @@
 # Python Practice – 30 Days of Code 💻🔥
 
 This repository contains my daily Python learning journey from scratch to advanced developer.  
-My goal is to become a software developer at a top company like Google, Microsoft, etc..
+My goal is to become a software developer at a top company like Google, Microsoft, etc.
 
 ---
 
@@ -227,6 +227,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Check If N and Its Double Exist
     - Maximum Average Subarray I
 
+### 📅 Day 11 – Prefix Sum & Binary Search
+
+✅ Easy:
+
+    - Find Pivot Index
+    - Binary Search
+
 ---
 
 ## 🛠️ Tools Used
@@ -261,6 +268,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 8 - LeetCode Practice(Before DSA)
 - [x] Day 9 - LeetCode Practice(Before DSA)
 - [x] Day 10 - LeetCode Practice(Before DSA)
+- [x] Day 11 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
