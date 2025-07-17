@@ -234,6 +234,16 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Find Pivot Index
     - Binary Search
 
+### 📅 Day 12 – Binary Search & Prime Numbers
+
+✅ Easy:
+
+    - Search Insert Position
+
+✅ Medium:
+
+    - Count Primes
+
 ---
 
 ## 🛠️ Tools Used
@@ -269,6 +279,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 9 - LeetCode Practice(Before DSA)
 - [x] Day 10 - LeetCode Practice(Before DSA)
 - [x] Day 11 - LeetCode Practice(Before DSA)
+- [x] Day 12 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
