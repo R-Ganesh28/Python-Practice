@@ -244,6 +244,13 @@ My goal is to become a software developer at a top company like Google, Microsof
 
     - Count Primes
 
+### 📅 Day 13 – Math & Frequency Logic
+
+✅ Easy:
+
+    - Smallest Even Multiple
+    - Most Frequent Even Element
+
 ---
 
 ## 🛠️ Tools Used
@@ -280,6 +287,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 10 - LeetCode Practice(Before DSA)
 - [x] Day 11 - LeetCode Practice(Before DSA)
 - [x] Day 12 - LeetCode Practice(Before DSA)
+- [x] Day 13 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
