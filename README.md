@@ -251,6 +251,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Smallest Even Multiple
     - Most Frequent Even Element
 
+### 📅 Day 14 – Math & Bitwise Edge Cases
+
+✅ Medium:
+
+    - Divide Two Integers
+    - Reverse Integer
+
 ---
 
 ## 🛠️ Tools Used
@@ -288,6 +295,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 11 - LeetCode Practice(Before DSA)
 - [x] Day 12 - LeetCode Practice(Before DSA)
 - [x] Day 13 - LeetCode Practice(Before DSA)
+- [x] Day 14 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
