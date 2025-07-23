@@ -258,6 +258,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Divide Two Integers
     - Reverse Integer
 
+### 📅 Day 15 – Power & Multiplication
+
+✅ Easy/Medium:
+
+    - Multiply Strings
+    - Pow(x, n)
+
 ---
 
 ## 🛠️ Tools Used
@@ -296,6 +303,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 12 - LeetCode Practice(Before DSA)
 - [x] Day 13 - LeetCode Practice(Before DSA)
 - [x] Day 14 - LeetCode Practice(Before DSA)
+- [x] Day 15 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
