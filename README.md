@@ -1,7 +1,7 @@
 # Python Practice – 30 Days of Code 💻🔥
 
 This repository contains my daily Python learning journey from scratch to advanced developer.  
-My goal is to become a software developer at a top company like Google, Microsoft, etc..
+My goal is to become a software developer at a top company like Google, Microsoft, etc.
 
 ---
 
@@ -272,6 +272,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Roman to Integer
     - Length of Last Word
 
+### 📅 Day 17 – Math: Square Root Logic
+
+✅ Easy:
+
+    - Sqrt(x)
+    - Valid Perfect Square
+
 ---
 
 ## 🛠️ Tools Used
@@ -312,6 +319,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 14 - LeetCode Practice(Before DSA)
 - [x] Day 15 - LeetCode Practice(Before DSA)
 - [x] Day 16 - LeetCode Practice(Before DSA)
+- [x] Day 17 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
