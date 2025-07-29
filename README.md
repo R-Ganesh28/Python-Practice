@@ -1,7 +1,7 @@
 # Python Practice – 30 Days of Code 💻🔥
 
 This repository contains my daily Python learning journey from scratch to advanced developer.  
-My goal is to become a software developer at a top company like Google, Microsoft, etc.
+My goal is to become a software developer at a top company like Google, Microsoft, etc..
 
 ---
 
