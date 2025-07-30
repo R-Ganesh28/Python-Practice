@@ -279,6 +279,13 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Sqrt(x)
     - Valid Perfect Square
 
+### 📅 Day 18 – Digit by Digit Addition
+
+✅ Easy:
+
+    - Add to Array-Form of Integer
+    - Add Strings
+
 ---
 
 ## 🛠️ Tools Used
@@ -320,6 +327,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 15 - LeetCode Practice(Before DSA)
 - [x] Day 16 - LeetCode Practice(Before DSA)
 - [x] Day 17 - LeetCode Practice(Before DSA)
+- [x] Day 18 - LeetCode Practice(Before DSA)
 - [ ] Day 15 (Coming up 🔥)
 
 ---
