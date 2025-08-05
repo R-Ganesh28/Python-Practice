@@ -286,6 +286,16 @@ My goal is to become a software developer at a top company like Google, Microsof
     - Add to Array-Form of Integer
     - Add Strings
 
+### 📅 DSA Day 01 – Arrays & Patterns
+
+✅ Completed:
+- Two Pointer Technique – GeeksForGeeks
+
+📚 Learning Next:
+- Sliding Window Technique
+- Kadane's Algorithm
+- Prefix Sum
+
 ---
 
 ## 🛠️ Tools Used
@@ -328,7 +338,8 @@ My goal is to become a software developer at a top company like Google, Microsof
 - [x] Day 16 - LeetCode Practice(Before DSA)
 - [x] Day 17 - LeetCode Practice(Before DSA)
 - [x] Day 18 - LeetCode Practice(Before DSA)
-- [ ] Day 15 (Coming up 🔥)
+- [x] DSA Day 01 – Started Arrays & Patterns | Completed Two Pointers (GFG)
+- [ ] DSA Day 01 - Started Arrays & Patterns (Coming up 🔥)
 
 ---
 
