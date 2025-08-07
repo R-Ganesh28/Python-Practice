@@ -289,7 +289,7 @@ My goal is to become a software developer at a top company like Google, Microsof
 ### 📅 DSA Day 01 – Arrays & Patterns
 
 ✅ Completed:
-- Two Pointer Technique – GeeksForGeeks.
+- Two Pointer Technique – GeeksForGeeks..
 
 📚 Learning Next:
 - Sliding Window Technique
