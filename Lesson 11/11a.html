@@ -1,0 +1,59 @@
+<!-- CSS Grid -->
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style>
+            .info-grid-1 {
+                display: grid;
+                grid-template-columns: 200px 75px;
+            }
+
+            .info-grid-2 {
+                display: grid;
+                grid-template-columns: 50px 1fr 75px;
+            }
+            .info-grid-3 {
+                margin-top: 30px;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+                column-gap: 20px;
+                row-gap: 10px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <!-- CSS Grid with 2 column with width of 200px and 75px -->
+
+        <div class="info-grid-1">
+            <div style="background-color: lightblue; ">200px</div>
+            <div style="background-color: lightpink; ">75px</div>
+        </div>
+
+        <!-- create a grid with 3 column with width of 50px, remaining space and 75px -->
+
+        <div class="info-grid-2">
+            <div style="background-color: lightblue"; >50px</div>
+            <div style="background-color: lightpink"; >1fr</div>
+            <div style="background-color: lightblue"; >75px</div>
+        </div>
+
+        <!-- create a grid with 4 equal column that takes up the entire page.
+         Space between column = 20px, space between rows = 10px -->
+
+            <div class="info-grid-3">
+                <div style="background-color: lightpink;">col1</div>
+                <div style="background-color: lightblue;">col2</div>
+                <div style="background-color: lightpink;">col3</div>
+                <div style="background-color: lightblue;">col4</div>
+                <div style="background-color: lightpink;">col1</div>
+                <div style="background-color: lightblue;">col2</div>
+                <div style="background-color: lightpink;">col3</div>
+                <div style="background-color: lightblue;">col4</div>
+            </div>
+        </div>
+         
+    </body>
+</html>
